@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Wanderspace
 - 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on various development projects
+- 👯 I’m looking to collaborate on various development project
 - 📫 How to reach me: https://www.instagram.com/deez.k29/?igsh=aWN4dHhtNHJxdHl4#
 - 😄 Pronouns: He/Him
 
