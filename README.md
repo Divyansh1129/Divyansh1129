@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Wanderspace
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on various development project
-- 📫 How to reach me: https://www.instagram.com/deez.k29/?igsh=aWN4dHhtNHJxdHl4#
+- 📫 How to reach me: (https://www.linkedin.com/in/divyansh-kaushik-564475313/)
 - 😄 Pronouns: He/Him
 
 
