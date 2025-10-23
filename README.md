@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Divyansh1129/Divyansh1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Wanderspace
+- 🌱 I’m currently learning MERN stack
+- 👯 I’m looking to collaborate on various development projects
+- 📫 How to reach me: https://www.instagram.com/deez.k29/?igsh=aWN4dHhtNHJxdHl4#
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyansh1129&theme=transparent" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divyansh1129&theme=transparent" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Divyansh1129&label=Profile+Views&style=for-the-badge&color=grey" />
+</div>
