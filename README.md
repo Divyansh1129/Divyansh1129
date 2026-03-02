@@ -1,8 +1,8 @@
 
 
-- 🔭 I’m currently working on Wanderspace
-- 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on various development project
+- 🔭 I’m currently working on Handwritten Digit Recognition
+- 🌱 I’m currently learning Machine learning
+- 👯 Building skills in Machine Learning and open to project collaborations.
 - 📫 How to reach me: (https://www.linkedin.com/in/divyansh-kaushik-564475313/)
 - 😄 Pronouns: He/Him
 
