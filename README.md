@@ -1,8 +1,8 @@
 
 
-- 🔭 I’m currently working on Handwritten Digit Recognition
-- 🌱 I’m currently learning Machine learning
-- 👯 Building skills in Machine Learning and open to project collaborations.
+- 🔭 I’m currently working on making new MERN projects
+- 🌱 I’m currently learning MERN stack
+- 👯 Building skills in web development and open to project collaborations.
 - 📫 How to reach me: (https://www.linkedin.com/in/divyansh-kaushik-564475313/)
 - 😄 Pronouns: He/Him
 
